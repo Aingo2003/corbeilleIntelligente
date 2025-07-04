@@ -119,7 +119,7 @@ Les contributions sont les bienvenues ! Si vous avez des améliorations, des cor
 ---
 
 ## 📧 Contact
-Pour toute question ou suggestion, n'hésitez pas a me contacter sur myaltabienaime@gmail.com ou sur +235 60 57 98 96 ou sur ma page facebook 
+Pour toute question ou suggestion, n'hésitez pas a me contacter sur myaltabienaime@gmail.com ou sur +235 60 57 98 96 ou sur ma page facebook https://www.facebook.com/clubenasduino
 
 ---
 
