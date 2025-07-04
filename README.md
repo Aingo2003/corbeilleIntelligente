@@ -1,6 +1,6 @@
 # corbeilleIntelligente
 
-
+Réaliser par MYALTA BIEN-AIME Tchenicien en informatique 
 ✨ Fonctionnalités
 Détection du Niveau de Remplissage : Utilise deux capteurs ultrasons pour mesurer avec précision le niveau des déchets et déterminer si la corbeille est vide, à moitié pleine ou pleine.
 
